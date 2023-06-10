@@ -2,37 +2,37 @@
   "products": [
     {
       "id": 1,
-      "name": "Computer",
-      "price": 12000,
+      "name": "iphone",
+      "price": 7999,
       "checked": true
     },
     {
       "id": 2,
-      "name": "Printer",
-      "price": 1000,
+      "name": "pc",
+      "price": 4000,
       "checked": true
     },
     {
-      "name": "smart tv",
-      "price": "12000",
+      "name": "smartwatch",
+      "price": "3000",
       "checked": true,
       "id": 3
     },
     {
-      "name": "smart tv",
-      "price": "12000",
+      "name": "smartwatch",
+      "price": "5000",
       "checked": true,
       "id": 4
     },
     {
-      "name": "smart tv",
+      "name": "macbook",
       "price": "12000",
       "checked": true,
       "id": 5
     },
     {
-      "name": "monitor",
-      "price": "20000",
+      "name": "ecran",
+      "price": "45000",
       "checked": true,
       "id": 6
     },
